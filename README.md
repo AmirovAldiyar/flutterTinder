@@ -6,6 +6,8 @@ You can like or dislike a joke you get (for now it just switches joke from API)
 
 Jokes you liked are stored in favourites page!
 It will be saved in your local storage!
+
+You can remove joke from favourites list by pressing on it.
 ## Screenshots
 ![screenshot](pic1.jpg) ![screenshot](pic2.jpg)
 ## APK
